@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-add-card-details](screens/add-card-details)
 - [screen-add-payment-method](screens/add-payment-method)
 - [screen-about-the-app](screens/about-the-app)
+- [screen-account-settings](screens/account-settings)
 
 # Getting started: Frontend
 
