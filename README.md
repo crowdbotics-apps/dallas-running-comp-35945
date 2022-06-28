@@ -59,6 +59,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-barcode-scanner](screens/barcode-scanner)
 - [screen-appointment-calendar](screens/appointment-calendar)
 - [react-native-app-menu](modules/app-menu)
+- [screen-advance-search](screens/advance-search)
 
 # Getting started: Frontend
 
